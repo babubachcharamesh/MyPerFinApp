@@ -1,0 +1,5 @@
+{
+  "name": "Zenith Finance AI",
+  "description": "A personal finance management application that uses AI to provide insights, automatically categorizes your spending, and helps you achieve your financial goals with stunning visualizations. All your data is stored securely on your device.",
+  "requestFramePermissions": []
+}
